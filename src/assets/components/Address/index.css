@@ -1,0 +1,17 @@
+.add{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px;
+}
+
+h4{
+    color: rgb(140, 224, 4);
+list-style: circle;
+border: 1px solid fuchsia ;
+padding: 10px;
+width: 50%;
+margin-bottom: 10px;
+background-color: #fd6906;
+
+}
